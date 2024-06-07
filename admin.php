@@ -93,8 +93,10 @@
          <!-- Contenido principal aquí -->
         </div>
     </div>
- 
-    
+   <!-- footer -->
+<div><a>sdfjdsfodjsfldkjfkldfj</a></div>
+<div>aslfkjaflkajf0</div> 
+assfijfasfoafaasf  
 
 <!-- Bootstrap JS and dependencies -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
