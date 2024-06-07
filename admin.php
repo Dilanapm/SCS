@@ -87,6 +87,10 @@
         </div>
         <div class="content p-4">
          <!-- Contenido principal aquí -->
+          <div>asfljaslfkjasf</div>
+          <table>asjfaslfkjasflkja</table>
+          <div>daslkfjasfklñjsf</div>
+          <div>alskfjalfkjasflksjs</div>
         </div>
     </div>
  
