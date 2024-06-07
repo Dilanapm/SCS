@@ -41,6 +41,8 @@
                     <a class="nav-link" href="#">Default</a>
                     <a class="nav-link" href="#">Analytics</a>
                     <a class="nav-link" href="#">E-commerce</a>
+                    <div>asdkjalskjddasd</div>
+                    <div>asdkjaslkdjasldkjalskñlsadk</div>
                 </nav>
                 <a class="nav-link" href="#">
                     <i class="bi bi-file-earmark"></i> Pages
