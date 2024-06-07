@@ -25,29 +25,63 @@
                
             </ul>
         </div>
-    </nav>
-  <!-- Main Content -->
-  <div class="container mt-8">
-        <div class="row"> 
-            <!-- Left Column -->
-            <div class="col-md-4">
-                <h2>Contenido Principal</h2>
-                <p>Aquí va el contenido principal de la columna izquierda.</p>
+</nav>
+<div class="d-flex">
+        <div class="sidebar bg-light p-3">
+            <div class="profile mb-4">
+                <img src="https://via.placeholder.com/80" alt="Foto de perfil">
+                <h5>Linda Miller</h5>
+                <p class="text-muted">Front-end Developer</p>
             </div>
-            <!-- Right Column -->
-            <div class="col-md-8">
-                <div class="card">
-                    <img src="ruta/a/tu/foto.jpg" class="card-img-top" alt="Foto del Administrador">
-                    <div class="card-body">
-                        <h5 class="card-title">Nombre del Administrador</h5>
-                        <p class="card-text">Dirección: Calle Ejemplo 123</p>
-                        <p class="card-text">Departamento: Desarrollo Web</p>
-                        <p class="card-text">Cargo: Administrador</p>
-                    </div>
-                </div>
-            </div>
+            <nav class="nav flex-column">
+                <a class="nav-link active" href="#">
+                    <i class="bi bi-house"></i> Dashboards
+                </a>
+                <nav class="nav flex-column ms-3">
+                    <a class="nav-link" href="#">Default</a>
+                    <a class="nav-link" href="#">Analytics</a>
+                    <a class="nav-link" href="#">E-commerce</a>
+                </nav>
+                <a class="nav-link" href="#">
+                    <i class="bi bi-file-earmark"></i> Pages
+                </a>
+                <a class="nav-link" href="#">
+                    <i class="bi bi-box-arrow-in-right"></i> Auth
+                </a>
+                <a class="nav-link" href="#">
+                    <i class="bi bi-palette"></i> User Interface
+                </a>
+                <a class="nav-link" href="#">
+                    <i class="bi bi-bar-chart"></i> Charts <span class="badge bg-primary">New</span>
+                </a>
+                <a class="nav-link" href="#">
+                    <i class="bi bi-check-square"></i> Forms
+                </a>
+                <a class="nav-link" href="#">
+                    <i class="bi bi-table"></i> Tables
+                </a>
+                <a class="nav-link" href="#">
+                    <i class="bi bi-grid"></i> DataTables
+                </a>
+                <a class="nav-link" href="#">
+                    <i class="bi bi-heart"></i> Icons
+                </a>
+                <a class="nav-link" href="#">
+                    <i class="bi bi-calendar"></i> Calendar
+                </a>
+                <a class="nav-link" href="#">
+                    <i class="bi bi-geo-alt"></i> Maps
+                </a>
+                <a class="nav-link" href="#">
+                    <i class="bi bi-book"></i> Documentation
+                </a>
+            </nav>
+        </div>
+        <div class="content p-4">
+         <!-- Contenido principal aquí -->
         </div>
     </div>
+ 
     
 
 <!-- Bootstrap JS and dependencies -->

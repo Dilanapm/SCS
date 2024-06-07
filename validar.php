@@ -4,18 +4,18 @@ $contrasenia=$_POST['contraseña'];
 session_start();
 $_SESSION['usuario']=$usuario;
 
-$conexion=mysqli_connect("localhost","id22211476_group","Sistemas@123","id22211476_scs");
+$conexion=mysqli_connect("localhost","root","","rol");
 
-$consulta="SELECT*FROM usuarios where Usuario='$usuario' and Contrasenia='$contrasenia'";
+$consulta="SELECT*FROM usuarios where usuario='$usuario' and contrasenia='$contrasenia'";
 $resultado=mysqli_query($conexion,$consulta);
 
 $filas=mysqli_fetch_array($resultado);
 
-if($filas['ID_CARGO']==1){ //administrador
+if($filas['id_cargo']==1){ //administrador
     header("location:admin.php");
 
 }else
-if($filas['ID_CARGO']==2){ //CONDUCTOR
+if($filas['idcargo']==2){ //CONDUCTOR
 header("location:conductor.php");
 }
 else{
