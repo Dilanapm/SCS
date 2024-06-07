@@ -23,7 +23,7 @@ else{
     <?php
     include("index.html");
     ?>
-    <h1 class="bad">ERROR EN LA AUTENTIFICACION</h1>
+    <h1 class="bad">ERROR EN LA AUTENTIFICACION por favor arregle eso</h1>
     <?php
 }
 mysqli_free_result($resultado);
