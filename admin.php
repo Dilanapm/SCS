@@ -69,11 +69,15 @@
                     <i class="bi bi-grid"></i> DataTables
                 </a>
                 <a class="nav-link" href="#">
-                    <i class="bi bi-heart"></i> Icons no es icons, es iconos
+                    <i class="bi bi-heart"></i> Icons no es icons, es icono slfjaslkfa
                 </a>
                 <a class="nav-link" href="#">
                     <i class="bi bi-calendar"></i> Calendar
-                </a></a>
+                </a>
+                <a class="nav-link" href="#">
+                    <i class="bi bi-check-square"></i> Forms
+                </a>
+            </a>
                 <a class="nav-link" href="#">
                     <i class="bi bi-calendar"></i> Calendar
                 </a>
