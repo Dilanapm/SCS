@@ -69,7 +69,7 @@
                     <i class="bi bi-grid"></i> DataTables
                 </a>
                 <a class="nav-link" href="#">
-                    <i class="bi bi-heart"></i> Icons no es icons, es iconos
+                    <i class="bi bi-heart"></i> Icons no es icons, es iconos asjfaslkjfaslkfjs loro12344
                 </a>
                 <a class="nav-link" href="#">
                     <i class="bi bi-calendar"></i> Calendar
