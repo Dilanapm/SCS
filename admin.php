@@ -39,8 +39,9 @@
                 </a>
                 <nav class="nav flex-column ms-3">
                     <a class="nav-link" href="#">Default</a>
-                    <a class="nav-link" href="#">Analytics</a>
-                    <a class="nav-link" href="#">E-commerce</a>
+                    <a class="nav-link" href="#">Analyasdasdasdasdtics</a>
+                    <a class="nav-link" href="#">E-commeasdasdasdasdrce</a>
+                    <a class="nav-link" href="#">E-commeasdasdasdasafdaddrce</a>
                 </nav>
                 <a class="nav-link" href="#">
                     <i class="bi bi-file-earmark"></i> Pages
